@@ -56,7 +56,7 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/1472BalajiV/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/1472BalajiV/)
 📫 **Email:** balajirama.2005@gmail.com
 
 ---
