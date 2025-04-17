@@ -10,6 +10,7 @@
 - 🧠 Exploring how **Mistral 7B**, **LLaVa**, and **Gemini** can power intelligent assistants
 - 💬 Building chatbots with **LangChain**, **vector stores**, and **custom memory buffers**
 - 🧠 Enthusiastic about blending **image processing**, **language understanding**, and **creative design**
+- 📸 I have strong hands-on experience with OpenCV 🖼️ and Flask 🔥, and built an OMR Validator 📝 as one of my key projects
 - 🧪 Currently experimenting with **Django** and expanding backend knowledge
 - ⚙️ Passionate about real-world applications, from chatbots to medical imaging
 
