@@ -6,10 +6,12 @@
 
 ## 🧠 About Me
 
-- 🤖 Building smart chatbots with **Mistral 7B**, **LLaVa**, and **Streamlit**
-- 🌱 Currently learning **Django** and expanding my backend skills
-- 🧩 Working with **LangChain**, **Gemini API**, and **vector databases**
-- 🧠 Fascinated by the power of AI in **image recognition**, **natural language processing**, and **OpenCV**
+- 🤖 I'm deeply interested in **LLMs (Large Language Models)** and **Generative AI**
+- 🧠 Exploring how **Mistral 7B**, **LLaVa**, and **Gemini** can power intelligent assistants
+- 💬 Building chatbots with **LangChain**, **vector stores**, and **custom memory buffers**
+- 🧠 Enthusiastic about blending **image processing**, **language understanding**, and **creative design**
+- 🧪 Currently experimenting with **Django** and expanding backend knowledge
+- ⚙️ Passionate about real-world applications, from chatbots to medical imaging
 
 ---
 
@@ -35,6 +37,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-0A9396?style=flat&logo=data&logoColor=white)
 
+
+### ☁️ Platforms & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Zoho Catalyst](https://img.shields.io/badge/-Zoho%20Catalyst-E9382D?style=flat&logo=zoho&logoColor=white)
+
 ---
 
 ## 🚀 Projects
@@ -49,8 +58,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balaji1472&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji1472&layout=compact&theme=tokyonight)
+
 
 ---
 
