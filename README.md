@@ -11,7 +11,6 @@
 - 💬 Building chatbots with **LangChain**, **vector stores**, and **custom memory buffers**
 - 🧠 Enthusiastic about blending **image processing**, **language understanding**, and **creative design**
 - 📸 I have strong hands-on experience with OpenCV 🖼️ and Flask 🔥, and built an OMR Validator 📝 as one of my key projects
-- 🧪 Currently experimenting with **Django** and expanding backend knowledge
 - ⚙️ Passionate about real-world applications, from chatbots to medical imaging
 
 ---
@@ -32,7 +31,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -54,6 +52,7 @@
 - ✅ **OMRSheetValidator** – Streamlined mod sheet validation system
 - 🩻 **SpineDefect Detection** – Medical imaging project using CNN to analyze spine posture
 - 🧑‍💻 **Portfolio Website** – Personal portfolio using HTML, CSS & JavaScript
+- 🎬 Video Summarizer AI Agent – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
 
 ---
 
