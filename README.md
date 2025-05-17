@@ -47,12 +47,12 @@
 
 ## 🚀 Projects
 
+- 🎬 **Video Summarizer AI Agent** – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
 - 💼 **StartupBuddy Chatbot** – AI chatbot for entrepreneurs using LangChain + Gemini + Pinecone
 - 🧠 **Image Insights AI** – Vision + Language chatbot with Mistral 7B and LLaVa
 - ✅ **OMRSheetValidator** – Streamlined mod sheet validation system
 - 🩻 **SpineDefect Detection** – Medical imaging project using CNN to analyze spine posture
 - 🧑‍💻 **Portfolio Website** – Personal portfolio using HTML, CSS & JavaScript
-- 🎬 **Video Summarizer AI Agent** – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
 
 ---
 
