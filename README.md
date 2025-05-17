@@ -52,7 +52,7 @@
 - ✅ **OMRSheetValidator** – Streamlined mod sheet validation system
 - 🩻 **SpineDefect Detection** – Medical imaging project using CNN to analyze spine posture
 - 🧑‍💻 **Portfolio Website** – Personal portfolio using HTML, CSS & JavaScript
-- 🎬 Video Summarizer AI Agent – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
+- 🎬 **Video Summarizer AI Agent** – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
 
 ---
 
