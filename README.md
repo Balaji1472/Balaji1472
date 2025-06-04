@@ -6,6 +6,7 @@
 
 ## 🧠 About Me
 
+- 🧠 Exploring **Ollama LLMs** to build intelligent **AI assistants** for diverse real-world applications.
 - 🤖 I'm deeply interested in **LLMs (Large Language Models)** and **Generative AI**
 - 🧠 Exploring how **Mistral 7B**, **LLaVa**, and **Gemini** can power intelligent assistants
 - 💬 Building chatbots with **LangChain**, **vector stores**, and **custom memory buffers**
@@ -23,6 +24,7 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
 ### 🧰 Tools & Frameworks
+![Ollama](https://img.shields.io/badge/-Ollama-333?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat&logo=chainlink&logoColor=white)
@@ -47,6 +49,7 @@
 
 ## 🚀 Projects
 
+- 📄 **DeepSeek PDF Assistant** – Intelligent PDF document assistant leveraging Ollama LLM for contextual question answering and fast content retrieval
 - 🎬 **Video Summarizer AI Agent** – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
 - 💼 **StartupBuddy Chatbot** – AI chatbot for entrepreneurs using LangChain + Gemini + Pinecone
 - 🧠 **Image Insights AI** – Vision + Language chatbot with Mistral 7B and LLaVa
