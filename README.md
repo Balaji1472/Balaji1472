@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Balaji V!
 
-🎓 I'm a 3rd-year Computer Science Engineering student passionate about **AI**, **Machine Learning**, and **creative tech solutions**.
+🎓 I'm a Final year Computer Science Engineering student passionate about **AI**, **Machine Learning**, and **creative tech solutions**.
 
 ---
 
