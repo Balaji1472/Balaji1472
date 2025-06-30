@@ -4,15 +4,14 @@
 
 ---
 
-## 🧠 About Me
+### 👋 About Me
 
-- 🧠 Exploring **Ollama LLMs** to build intelligent **AI assistants** for diverse real-world applications.
-- 🤖 I'm deeply interested in **LLMs (Large Language Models)** and **Generative AI**
-- 🧠 Exploring how **Mistral 7B**, **LLaVa**, and **Gemini** can power intelligent assistants
-- 💬 Building chatbots with **LangChain**, **vector stores**, and **custom memory buffers**
-- 🧠 Enthusiastic about blending **image processing**, **language understanding**, and **creative design**
-- 📸 I have strong hands-on experience with OpenCV 🖼️ and Flask 🔥, and built an OMR Validator 📝 as one of my key projects
-- ⚙️ Passionate about real-world applications, from chatbots to medical imaging
+- 🧠 Passionate about **LLMs** and **Generative AI** for real-world applications
+- 🤖 Exploring **Ollama** to run models like **Mistral** 7B and **LLaVa** locally
+- 💬 Building intelligent chatbots using **LangChain**, **Pinecone**, and **ChromaDB**
+- 🧠 Integrating **Gemini Flash** and multimodal AI into assistant tools
+- 📸 Experienced in **OpenCV & Flask** – built a high-accuracy OMR Validator
+- ⚙️ Love blending vision, language, and UI to create impactful **AI** solutions
 
 ---
 
@@ -37,9 +36,11 @@
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/-Pinecone-0A9396?style=flat&logo=data&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-6C63FF?style=flat&logo=databricks&logoColor=white)
 
 
 ### ☁️ Platforms & DevOps
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -48,11 +49,12 @@
 ---
 
 ## 🚀 Projects
-
+- 📚 **Dynamic AI Book Processor** – Full-stack AI pipeline for automated book publication using web scraping, LLMs, and ChromaDB on AWS
+- 🎫 **Duplicate Ticket Detection** – FastAPI app for semantic duplicate detection with transformers, multilingual support, clustering & Streamlit dashboard
 - 📄 **DeepSeek PDF Assistant** – Intelligent PDF document assistant leveraging Ollama LLM for contextual question answering and fast content retrieval
 - 🎬 **Video Summarizer AI Agent** – AI-powered video summarization using Gemini Flash 2.0, Phidata, and Streamlit
 - 💼 **StartupBuddy Chatbot** – AI chatbot for entrepreneurs using LangChain + Gemini + Pinecone
-- 🧠 **Image Insights AI** – Vision + Language chatbot with Mistral 7B and LLaVa
+- 🧠 **VisionChat AI** – Vision + Language chatbot with Mistral 7B and LLaVa
 - ✅ **OMRSheetValidator** – Streamlined mod sheet validation system
 - 🩻 **SpineDefect Detection** – Medical imaging project using CNN to analyze spine posture
 - 🧑‍💻 **Portfolio Website** – Personal portfolio using HTML, CSS & JavaScript
@@ -70,6 +72,7 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/1472BalajiV/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=vercel&logoColor=white)](https://balaji-v-60037129082.development.catalystserverless.in/app/index.html)
 📫 **Email:** balajirama.2005@gmail.com
 
 ---
