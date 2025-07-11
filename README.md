@@ -72,7 +72,7 @@
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/1472BalajiV/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=vercel&logoColor=white)](https://balaji-v-60037129082.development.catalystserverless.in/app/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=vercel&logoColor=white)](https://balajiv-portfolio.netlify.app/)
 📫 **Email:** balajirama.2005@gmail.com
 
 ---
